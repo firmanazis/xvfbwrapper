@@ -24,7 +24,7 @@ if sys.version_info.major < 3:
 setuptools.setup(
     name='xvfbwrapper',
     version=VERSION,
-    py_modules=['xvfbwrapper'],
+    py_modules=['xvfbwrapper_firman'],
     author='Corey Goldberg',
     author_email='cgoldberg _at_ gmail.com',
     description='Manage headless displays with Xvfb (X virtual framebuffer)',

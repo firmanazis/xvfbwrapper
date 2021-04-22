@@ -9,7 +9,7 @@ import setuptools
 import sys
 
 
-VERSION = '0.2.10.dev'
+VERSION = '0.2.10.1.dev'
 
 
 this_dir = os.path.abspath(os.path.dirname(__file__))

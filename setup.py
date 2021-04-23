@@ -22,11 +22,11 @@ if sys.version_info.major < 3:
 
 
 setuptools.setup(
-    name='xvfbwrapper',
+    name='xvfbwrapper-firman',
     version=VERSION,
     py_modules=['xvfbwrapper_firman'],
     author='Corey Goldberg, Firman Azis Rauf',
-    author_email='firmanazis _at_ gmail.com',
+    author_email=['cgoldberg _at_ gmail.com', 'firmanazis _at_ gmail.com'],
     description='Manage headless displays with Xvfb (X virtual framebuffer)',
     long_description=LONG_DESCRIPTION,
     # url='https://github.com/cgoldberg/xvfbwrapper',
